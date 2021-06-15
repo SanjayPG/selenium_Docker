@@ -1,4 +1,4 @@
-FROM openjdk:8u191-jre-alpine3.8
+FROM openjdk:16-ea-13-oracle
 
 RUN apk add curl jq
 
